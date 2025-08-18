@@ -10,3 +10,6 @@ for server in servers:
         print(f"✅ {server} is up!")
     else:
         print(f"❌ {server} is down!")
+
+
+print("test")
